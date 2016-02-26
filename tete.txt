@@ -1,2 +1,7 @@
-Hoy mi novio esta estresante :) :) 
+<<<<<<< HEAD
+Hoy mi novio esta estresante :) :) (ESTO NO SE BORRA!!) 
 no se que escribir :) 
+=======
+:) 
+Este cambio lo hizo B otra vez (HOLA AMORSITO :* ) 
+>>>>>>> e555656ba80b16150070969d989cefaabaabb73a
